@@ -107,6 +107,18 @@ sequenceDiagram
 
 ---
 
+## 🎥 Demo  
+
+![Upload Bill](./screenshots/upload.png)  
+*Bill uploaded to S3*  
+
+![Extracted Data](./screenshots/database.png)  
+*Textract output stored in DynamoDB*  
+
+![Email Confirmation](./screenshots/email.png)  
+*Processed bill details sent via SES*  
+
+
 ## 🧑‍💻 Author  
 
 **Vellure Lohith** — B.Tech CSE Student | Aspiring SDE (Java) | Cloud & AWS Enthusiast  
