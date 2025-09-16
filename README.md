@@ -107,6 +107,7 @@ sequenceDiagram
 
 ---
 
-## 🧑‍💻 Author
+## 🧑‍💻 Author  
 
-**Lohith** — B.Tech CSE Student | Cloud & AWS Enthusiast
+**Lohith** — B.Tech CSE Student | Aspiring SDE (Java) | Cloud & AWS Enthusiast  
+
