@@ -109,13 +109,13 @@ sequenceDiagram
 
 ## 🎥 Demo  
 
-![Upload Bill](./screenshots/upload.png)  
+<img src="./screenshots/upload.png" alt="Upload Bill" width="400"/>  
 *Bill uploaded to S3*  
 
-![Extracted Data](./screenshots/database.png)  
+<img src="./screenshots/database.png" alt="Textract Output" width="400"/>  
 *Textract output stored in DynamoDB*  
 
-![Email Confirmation](./screenshots/email.png)  
+<img src="./screenshots/email.png" alt="Email Confirmation" width="400"/>  
 *Processed bill details sent via SES*  
 
 
