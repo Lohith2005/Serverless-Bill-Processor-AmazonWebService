@@ -10,7 +10,7 @@ This project demonstrates **cloud-native design principles**, **serverless autom
 ---
 
 ## 📸 Architecture Diagram  
-![AWS Architecture](./docs/aws-architecture.png)
+![AWS Architecture](./Docs/aws-architecture.png)
 
 
 ---
