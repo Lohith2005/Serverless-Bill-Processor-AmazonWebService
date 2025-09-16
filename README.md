@@ -109,5 +109,5 @@ sequenceDiagram
 
 ## 🧑‍💻 Author  
 
-**Lohith** — B.Tech CSE Student | Aspiring SDE (Java) | Cloud & AWS Enthusiast  
+**Vellure Lohith** — B.Tech CSE Student | Aspiring SDE (Java) | Cloud & AWS Enthusiast  
 
