@@ -119,7 +119,5 @@ sequenceDiagram
 *Processed bill details sent via SES*  
 
 
-## 🧑‍💻 Author  
 
-**Vellure Lohith** — B.Tech CSE Student | Aspiring SDE (Java) | Cloud & AWS Enthusiast  
 
